@@ -7,7 +7,6 @@
  Author: Jan Weinschenker
  Author URI: http://www.weinschenker.name
 
-
  Plugin: Copyright 2008  Jan Weinschenker  (email: kontakt@weinschenker.name)
 
  This program is free software; you can redistribute it and/or modify
