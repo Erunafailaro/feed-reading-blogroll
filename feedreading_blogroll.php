@@ -59,7 +59,7 @@ define('FEEDREADING_VERSION', '1.5.7');
 global $wp_version;
 
 /**
- * add options actions
+ * add option actions
  */
 add_option('feedreading_blogroll_settings', $data, 'feedreading_blogroll Options');
 add_filter('plugin_action_links_'.plugin_basename(__FILE__), 'feedreading_blogroll_addConfigureLink' );
