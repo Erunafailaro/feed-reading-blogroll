@@ -3,7 +3,7 @@ Contributors: erunafailaro
 Donate link: http://www.icrc.org/Web/eng/siteeng0.nsf/htmlall/helpicrc
 Tags: blogroll, sort, social, freshness, bookmarks, links, sidebar, widget, update, icon, feed, rss2, atom, ajax, Google API, template tag, bloglist, JavaScript, wpmu
 Requires at least: 3.0
-Tested up to: 3.2.1
+Tested up to: 3.2.1.0
 Stable tag: 1.5.8
 
 WP Social Blogroll adds a social blogroll to your blog. It will follow and display all updates of the sites in your blogroll.
